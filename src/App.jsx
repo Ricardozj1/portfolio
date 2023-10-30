@@ -19,6 +19,10 @@ function App() {
                 </div>
             </div>
             <div>
+                <h3>Habilidades: </h3>
+                <h4>JavaScript, node.js, git + gitHub, HTML + CSS</h4>
+            </div>
+            <div>
                 <h1>Projetos</h1>
                 <p>Um API sobre Rick and Morty</p>
                 <a href='https://rick-and-morty-seven-umber.vercel.app/'>https://rick-and-morty-seven-umber.vercel.app/</a>
